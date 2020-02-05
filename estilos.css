@@ -16,3 +16,9 @@ color:rgb(100, 155, 237)
     height: 100%;
     min-height: 800px;
 }
+.pieFoto{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 12px;
+    color:darkblue;
+}
